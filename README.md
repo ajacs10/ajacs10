@@ -47,8 +47,8 @@ Tenho experiência prática na construção de aplicações modernas usando **Re
 
 ## 🎓 Formação
 
-- 🎓 Engenharia Informática (4º ano)
-- 🧑‍💻 Cadete Transcender — 42 Luanda  
+- 🎓 Engenharia Informática e Sistema de Informacao (4º ano) => Instituto Superior Politecnico De Ciencia e Tecnologia(INSUTEC)
+- 🧑‍💻 Cadete Transcender — 42 Network (42 Luanda) 
 - 🌍 Membro da 42 Network
 
 ---
@@ -58,9 +58,10 @@ Tenho experiência prática na construção de aplicações modernas usando **Re
 | Projeto | Descrição | Tecnologias |
 |----------|-----------|--------------|
 | 📱 **MAMICARE** | Aplicação mobile para monitoramento de saúde materno-infantil com foco em UX e acessibilidade. | React Native, TypeScript |
+| 📱 **ONZE** | Aplicação mobile para jogos de Futebol com foco em UX e acessibilidade. | React Native, TypeScript |
 | 💳 **InsutecPayAPI** | Sistema de pagamentos e integração de fluxos universitários com arquitetura escalável. | Node.js, TypeScript |
 | 🏨 **HotelManagerSystem_ao** | Sistema de gestão hoteleira com arquitetura estruturada e base de dados. | Java, SQL |
-| 🔎 **ERATUM IT** | Plataforma de gestão de perdidos e achados com foco em organização, rastreio e eficiência de recuperação de itens. | React, TypeScript, Node.js |
+| 🔎 **RETURN IT** | Plataforma de gestão de perdidos e achados com foco em organização, rastreio e eficiência de recuperação de itens. | React, TypeScript, Node.js |
 | 🎓 **TUTOR MONITOR** | Sistema educacional para gestão e acompanhamento de estudantes e atividades acadêmicas. | React, TypeScript, API Integration |
 | 🎨 **Portfolio Pessoal** | Interface moderna focada em UI/UX, performance e experiência do utilizador. | React, TypeScript, Tailwind |
 
