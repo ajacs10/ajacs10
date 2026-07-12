@@ -1,4 +1,4 @@
-# 👋 Ana Juliana Sobrinho
+# 👋 Ana Juliana Avelino Da Costa Sobrinho
 
 Sou estudante do 4º ano de Engenharia Informática e Cadete Transcender na **42 Network (42 Luanda)**.
 
