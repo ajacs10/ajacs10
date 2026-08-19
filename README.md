@@ -1,6 +1,6 @@
 # 👋 Ana Juliana Avelino Da Costa Sobrinho
 
-Sou estudante do 4º ano de Engenharia Informática e Cadete Transcender na **42 Network (42 Luanda)**.
+Sou estudante do 5º ano de Engenharia Informática e Cadete Transcender na **42 Network (42 Luanda)**.
 
 Sou desenvolvedora com foco em **Frontend Engineering, UI/UX Design e Arquitetura de Software**, com interesse crescente em **infraestrutura, sistemas distribuídos e DevOps**.
 
