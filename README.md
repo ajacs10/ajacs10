@@ -1,10 +1,10 @@
-# 👋 Ana Juliana Avelino Da Costa Sobrinho
+# 👋 Ana Juliana Avelino da Costa Sobrinho
 
 Sou estudante do **5.º ano de Engenharia Informática e Sistemas de Informação** no INSUTEC e **Cadete Transcender na 42 Luanda**, onde concluí a minha formação em Engenharia de Software.
 
 Sou desenvolvedora com foco em **Frontend Engineering, UI/UX Design e Arquitectura de Software**, com experiência prática na construção de aplicações modernas e interesse crescente em **Dados, análise de informação, infraestrutura, sistemas distribuídos e DevOps**.
 
-Tenho experiência prática com **React, TypeScript e Tailwind CSS**, aliada a uma forte base de resolução de problemas e aprendizagem autónoma.
+Tenho experiência prática com **React, TypeScript e Tailwind CSS**, aliada a uma forte capacidade de resolução de problemas e aprendizagem autónoma.
 
 Actualmente, estou também a desenvolver competências na área de **Data Analytics**, utilizando **Python e SQL** para tratamento, exploração e análise de dados.
 
@@ -13,7 +13,6 @@ Actualmente, estou também a desenvolver competências na área de **Data Analyt
 ## 🚀 Áreas de Actuação
 
 ### 💻 Frontend Engineering
-
 - React
 - TypeScript
 - Tailwind CSS
@@ -22,15 +21,13 @@ Actualmente, estou também a desenvolver competências na área de **Data Analyt
 - UI/UX Implementation
 
 ### 🎨 UI/UX Design
-
 - Design Systems
-- Prototipação de Interfaces
+- Prototipagem de Interfaces
 - Experiência do Utilizador (UX)
 - Acessibilidade
 - Consistência visual
 
 ### 📊 Data Analytics
-
 - Python
 - SQL
 - Exploração de dados
@@ -41,7 +38,6 @@ Actualmente, estou também a desenvolver competências na área de **Data Analyt
 - Estruturação de dados relacionais
 
 ### ⚙️ Arquitectura de Software
-
 - SOLID Principles
 - Clean Architecture
 - Arquitectura Hexagonal (Ports & Adapters)
@@ -50,7 +46,6 @@ Actualmente, estou também a desenvolver competências na área de **Data Analyt
 - Sistemas desacoplados
 
 ### 🧱 Backend & Sistemas
-
 - Node.js
 - REST APIs
 - SQL
@@ -58,7 +53,6 @@ Actualmente, estou também a desenvolver competências na área de **Data Analyt
 - Estruturação de sistemas
 
 ### 🐳 DevOps & Infraestrutura
-
 - Docker
 - Nginx
 - Linux / Unix
@@ -68,48 +62,57 @@ Actualmente, estou também a desenvolver competências na área de **Data Analyt
 
 ---
 
-# 🎓 Formação
+## 🎓 Formação
 
 - 🎓 **Engenharia Informática e Sistemas de Informação** — INSUTEC
 - 🧑‍💻 **Engenharia de Software** — 42 Luanda
 - 🏆 **Cadete Transcender** — 42 Network
 - 🌍 **Membro da 42 Network**
 
-A formação na 42 é baseada em **projectos, resolução de problemas, aprendizagem autónoma e colaboração entre estudantes**, desenvolvendo uma abordagem prática para enfrentar problemas técnicos.
+A formação na 42 é baseada em projectos, resolução de problemas, aprendizagem autónoma e colaboração entre estudantes, desenvolvendo uma abordagem prática para enfrentar desafios técnicos.
 
 ---
 
-# 🔥 Projectos em Destaque
+## 🔥 Projectos em Destaque
 
 | Projecto | Descrição | Tecnologias |
-|----------|-----------|-------------|
+|---|---|---|
+| 🎓 **Educar para a Cidadania** | Responsável pelo redesign e desenvolvimento técnico de uma plataforma digital dedicada à promoção da educação para a cidadania, concebida para disponibilizar conteúdos e recursos educativos ao público. | WordPress, Elementor, PHP, HTML, CSS |
 | 📊 **WORKEANLY** | Projecto de análise do mercado de trabalho para estudar profissões, competências, empresas, localizações e tendências de contratação. | Python, Polars, SQL, Microsoft SQL Server |
-| 📱 **MAMICARE** | Aplicação mobile para monitoramento de saúde materno-infantil, com foco na experiência do utilizador e acessibilidade. | React Native, TypeScript |
+| 📱 **MAMICARE** | Aplicação mobile para monitorização da saúde materno-infantil, com foco na experiência do utilizador e acessibilidade. | React Native, TypeScript |
 | 📱 **ONZE** | Aplicação mobile para jogos de futebol, com foco na organização da informação e experiência do utilizador. | React Native, TypeScript |
 | 💳 **InsutecPayAPI** | Sistema de pagamentos e integração de fluxos universitários com uma arquitectura estruturada. | Node.js, TypeScript |
 | 🏨 **HotelManagerSystem_ao** | Sistema de gestão hoteleira com arquitectura estruturada e base de dados relacional. | Java, SQL |
 | 🔎 **RETURN IT** | Plataforma de gestão de perdidos e achados orientada para organização, rastreio e recuperação de itens. | React, TypeScript, Node.js |
 | 🎓 **TUTOR MONITOR** | Sistema educacional para gestão e acompanhamento de estudantes e actividades académicas. | React, TypeScript, PostgreSQL |
 
+### 🎓 Educar para a Cidadania
+
+O [Educar para a Cidadania](https://www.educarparacidadania.ao/) é uma plataforma digital dedicada à promoção da educação para a cidadania, com o objectivo de disponibilizar conteúdos e recursos que incentivem a formação cívica e a participação dos cidadãos.
+
+Participei no **redesign e desenvolvimento técnico da plataforma**, trabalhando na organização da interface, apresentação dos conteúdos e experiência de navegação, contribuindo para a evolução da sua presença digital.
+
+🔗 **Plataforma:** https://www.educarparacidadania.ao/
+
 ---
 
-# 🧠 Filosofia de Engenharia
+## 🧠 Filosofia de Engenharia
 
 Procuro desenvolver soluções com foco em:
 
-* Código limpo, legível e sustentável
-* Separação de responsabilidades
-* Componentização e reutilização
-* Arquitecturas desacopladas
-* Resolução estruturada de problemas
-* Performance
-* Experiência do utilizador
-* Qualidade e organização dos dados
-* Boas práticas de versionamento
+- Código limpo, legível e sustentável
+- Separação de responsabilidades
+- Componentização e reutilização
+- Arquitecturas desacopladas
+- Resolução estruturada de problemas
+- Performance
+- Experiência do utilizador
+- Qualidade e organização dos dados
+- Boas práticas de versionamento
 
 ---
 
-# 📈 Software Engineering + Data
+## 📈 Software Engineering + Data
 
 A minha formação principal está ligada à **Engenharia de Software**, mas tenho vindo a expandir essa base para a área de **Dados**.
 
@@ -119,10 +122,9 @@ Actualmente, estou a explorar esta intersecção através de projectos práticos
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 ### Languages
-
 ```text
 C
 C++
@@ -134,7 +136,6 @@ Bash
 ```
 
 ### Frontend
-
 ```text
 React
 Next.js
@@ -145,7 +146,6 @@ CSS3
 ```
 
 ### Backend & Data
-
 ```text
 Node.js
 REST APIs
@@ -157,7 +157,6 @@ Polars
 ```
 
 ### Systems & DevOps
-
 ```text
 Linux / Unix
 Docker
@@ -169,30 +168,29 @@ Postman
 
 ---
 
-# 🐙 Ecossistema Profissional
+## 🐙 Ecossistema Profissional
 
-* 💻 GitHub: https://github.com/ajacs10
-* 💼 LinkedIn: https://www.linkedin.com/in/ana-juliana-sobrinho-710b63292
-* 🌐 Portefólio: https://www.anasobrinho.me
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajacs10\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajacs10\&layout=compact\&theme=tokyonight)
+- 💻 GitHub: https://github.com/ajacs10
+- 💼 LinkedIn: https://www.linkedin.com/in/ana-juliana-sobrinho-710b63292
+- 🌐 Portefólio: https://www.anasobrinho.me
 
 ---
 
-# 📫 Contacto
+## 📊 GitHub Stats
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ana-juliana-sobrinho-710b63292
-* 📧 Email: [ajacs120702@gmail.com](mailto:ajacs120702@gmail.com)
-* 🐙 GitHub: https://github.com/ajacs10
-* 🌐 Portefólio: https://www.anasobrinho.me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajacs10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajacs10&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *“Engenharia não é apenas construir software — é compreender problemas, estruturar soluções e transformar informação em sistemas que geram valor.”*
+## 📫 Contacto
 
+- 💼 LinkedIn: https://www.linkedin.com/in/ana-juliana-sobrinho-710b63292
+- 📧 Email: [ajacs120702@gmail.com](mailto:ajacs120702@gmail.com)
+- 🐙 GitHub: https://github.com/ajacs10
+- 🌐 Portefólio: https://www.anasobrinho.me
+
+---
+
+⭐ *"Engenharia não é apenas construir software — é compreender problemas, estruturar soluções e transformar informação em sistemas que geram valor."*
